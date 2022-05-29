@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.31624.102
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Strategy_Pattern", "Strategy_Pattern\Strategy_Pattern.vcxproj", "{CF6B4E1C-2968-4840-9E35-98597A48D0C4}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Observer_Pattern", "Observer_Pattern\Observer_Pattern.vcxproj", "{F9FD8A13-B20E-43C3-BD82-C97EA8F5CA24}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{CF6B4E1C-2968-4840-9E35-98597A48D0C4}.Release|x64.Build.0 = Release|x64
 		{CF6B4E1C-2968-4840-9E35-98597A48D0C4}.Release|x86.ActiveCfg = Release|Win32
 		{CF6B4E1C-2968-4840-9E35-98597A48D0C4}.Release|x86.Build.0 = Release|Win32
+		{F9FD8A13-B20E-43C3-BD82-C97EA8F5CA24}.Debug|x64.ActiveCfg = Debug|x64
+		{F9FD8A13-B20E-43C3-BD82-C97EA8F5CA24}.Debug|x64.Build.0 = Debug|x64
+		{F9FD8A13-B20E-43C3-BD82-C97EA8F5CA24}.Debug|x86.ActiveCfg = Debug|Win32
+		{F9FD8A13-B20E-43C3-BD82-C97EA8F5CA24}.Debug|x86.Build.0 = Debug|Win32
+		{F9FD8A13-B20E-43C3-BD82-C97EA8F5CA24}.Release|x64.ActiveCfg = Release|x64
+		{F9FD8A13-B20E-43C3-BD82-C97EA8F5CA24}.Release|x64.Build.0 = Release|x64
+		{F9FD8A13-B20E-43C3-BD82-C97EA8F5CA24}.Release|x86.ActiveCfg = Release|Win32
+		{F9FD8A13-B20E-43C3-BD82-C97EA8F5CA24}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
